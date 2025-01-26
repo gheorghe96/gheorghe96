@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @gheorghe96
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning vue
 - 💞️ I’m looking to collaborate on remote
 - 📫 How to reach me: https://www.linkedin.com/in/gheorghe-curca-028621176/
 
